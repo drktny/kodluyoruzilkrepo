@@ -31,6 +31,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-##PROJE GORSELI
+## PROJE GORSELI
 
 ![Proje Gorsel](/assets/img/clone.png "Proje gorsel")
