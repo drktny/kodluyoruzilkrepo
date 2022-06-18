@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## PROJE GORSELI
 
-[Proje Gorsel](/kodluyoruzilkrepo/clone.PNG)
+<img src="./img/Isolated.png" alt="Proje Gorsel" />
