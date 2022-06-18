@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## PROJE GORSELI
 
-<img src="assets/img/clone.png" alt="Proje Gorsel" />
+<img src="assets/img/clone.png" alt="Proje Gorsel" >
