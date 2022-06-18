@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## PROJE GORSELI
 
-<img src="assets/img/clone.png" alt="Proje Gorsel" >
+<img src="https://www.boldgrid.com/support/wp-content/uploads/2017/08/9725-01-gotorepo.png" alt="Proje Gorsel" >
